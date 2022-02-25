@@ -1,1 +1,1 @@
-sed -i "s/old message/new messmessage/g" filename
+git pull
